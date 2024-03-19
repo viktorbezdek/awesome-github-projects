@@ -1,0 +1,22 @@
+name: Update starred repositories
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: 30 0 * * *
+jobs:
+  awesome-stars:
+    name: Run starred
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install starred
+    - env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: starred --username viktorbezdek --repository awesome-github-projects --sort --token ${GITHUB_TOKEN} --message 'Updated awesome GitHub projects'
