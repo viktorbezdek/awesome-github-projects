@@ -19,4 +19,5 @@ jobs:
         pip install starred
     - env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-      run: starred --username viktorbezdek --repository awesome-github-projects --sort --token ${GH_TOKEN} --message 'Updated awesome GitHub projects'
+      run: starred --username viktorbezdek --repository awesome-github-projects --sort --token ${GH_TOKEN} 
+      
