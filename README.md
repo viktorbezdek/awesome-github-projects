@@ -1641,7 +1641,6 @@
 - [gajus/usus](https://github.com/gajus/usus) - Webpage pre-rendering service. ⚡️
 - [stratiformltd/react-loadable-visibility](https://github.com/stratiformltd/react-loadable-visibility) - A wrapper around react-loadable and @loadable/component to load elements once they are visible on the page.
 - [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [surfinzap/typopo](https://github.com/surfinzap/typopo) - Fix frequent microtypography errors in multiple languages. Write neat texts without bothering about typography rules. Typopo works for English, German, Slovak, Czech and Rusyn language.
 - [robinweser/react-layout-components](https://github.com/robinweser/react-layout-components) - Layout Components for React based on Flexbox
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
@@ -2827,7 +2826,7 @@
 - [avineshwar/shotlooter](https://github.com/avineshwar/shotlooter) - a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
-- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of portable and extensible automation recipes with a unified and human-friendly interface and minimal dependencies to make it easier to compose, benchmark and opti
+- [mlcommons/ck](https://github.com/mlcommons/ck) - Collective Mind (CM) is a collection of reusable, portable and extensible automation recipes with a human-friendly interface and minimal dependencies to make it easier to compose, benchmark and optimi
 - [MISP/misp-taxonomies](https://github.com/MISP/misp-taxonomies) - Taxonomies used in MISP taxonomy system and can be used by other information sharing tool.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
@@ -4016,6 +4015,7 @@
 - [samccone/bundle-buddy](https://github.com/samccone/bundle-buddy) - A tool to understand your bundle size and why files are in your bundle
 - [heliosgraphics/fractures](https://github.com/heliosgraphics/fractures) - Only the good parts
 - [akveo/kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [dabbott/react-express](https://github.com/dabbott/react-express) - Learn React through interactive examples
