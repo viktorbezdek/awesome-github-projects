@@ -2214,6 +2214,7 @@
 - [xszyou/Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides,
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+- [yzfly/awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
@@ -2563,7 +2564,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [Bottelet/DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - DaybydayCRM an open-source CRM, to help you keep track of your daily workflow.
-- [itflow-org/itflow](https://github.com/itflow-org/itflow) - Free and open-source web application for MSPs that streamlines IT documentation, ticketing, invoicing, and accounting, an alternative to ITGlue. It helps in managing and organizing client's IT informa
+- [itflow-org/itflow](https://github.com/itflow-org/itflow) - Free and open-source web application for MSPs. Unifies IT documentation, ticketing, invoicing.
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [swoft-cloud/swoft](https://github.com/swoft-cloud/swoft) - 🚀 PHP Microservice Full Coroutine Framework
 - [ladybirdweb/agora-invoicing-community](https://github.com/ladybirdweb/agora-invoicing-community) - Agora Open source SaaS billing system for software companies
