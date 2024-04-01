@@ -9,6 +9,7 @@
 - [ActionScript](#actionscript)
 - [ApacheConf](#apacheconf)
 - [Astro](#astro)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -87,6 +88,10 @@
 ## Astro 
 
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
+
+## Batchfile 
+
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
 
 ## C 
 
@@ -2075,6 +2080,8 @@
 
 ## Jupyter Notebook 
 
+- [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) - 
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -2623,6 +2630,10 @@
 
 ## Python 
 
+- [agiresearch/AIOS](https://github.com/agiresearch/AIOS) - AIOS: LLM Agent Operating System
+- [Zejun-Yang/AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
+- [TMElyralab/MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
+- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [yoheinakajima/mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
 - [amazon-science/chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 - [WongKinYiu/yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
@@ -2652,7 +2663,7 @@
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [can-kat/cstealer](https://github.com/can-kat/cstealer) - [BIG UPDATE] A discord token grabber, crypto wallet stealer, cookie stealer, password stealer, file stealer etc. app written in Python.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-tuning of 100+ LLMs
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
 - [Tib3rius/AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -3121,6 +3132,7 @@
 
 ## Shell 
 
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [0n1cOn3/FluxER](https://github.com/0n1cOn3/FluxER) - FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform attacks such as WPA/WPA2 cracking and MITM attacks.
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [Bhaviktutorials/shark](https://github.com/Bhaviktutorials/shark) - Future Of Phishing With less delay
@@ -3252,7 +3264,7 @@
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Automate messages across email, SMS, webhooks, & native mobile push 📨 💬 📧
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is a set of enterprise document and data collaboration solutions.
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art LLMs. Bundling AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [basestack-co/basestack](https://github.com/basestack-co/basestack) - The Open-Source Stack for Developers and Startups
 - [stegano/next-http-proxy-middleware](https://github.com/stegano/next-http-proxy-middleware) - HTTP Proxy middleware available in API Middleware provided by Next.js.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -4068,7 +4080,7 @@
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [mgcrea/redux-rest-resource](https://github.com/mgcrea/redux-rest-resource) - Seamless REST interaction for Redux
-- [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
