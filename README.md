@@ -3399,7 +3399,7 @@
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
-- [zu1k/bs-core](https://github.com/zu1k/bs-core) - 
+- [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
