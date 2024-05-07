@@ -3679,7 +3679,7 @@
 - [maticzav/nookies](https://github.com/maticzav/nookies) - 🍪 A set of cookie helpers for Next.js
 - [open-source-labs/Reactime](https://github.com/open-source-labs/Reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
-- [zbnauj/next-authentication](https://github.com/zbnauj/next-authentication) - Authentication & Authorization library for the Next.js framework
+- [juanbzpy/next-authentication](https://github.com/juanbzpy/next-authentication) - Authentication & Authorization library for the Next.js framework
 - [santosfrancisco/react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - A responsive 8-point grid system layout for React using styled-components
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
