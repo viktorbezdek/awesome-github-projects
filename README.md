@@ -94,7 +94,7 @@
 
 ## Batchfile 
 
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## C 
 
@@ -473,7 +473,7 @@
 ## HTML 
 
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and open source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
+- [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -669,7 +669,7 @@
 - [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron) - The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [caesarHQ/textSQL](https://github.com/caesarHQ/textSQL) - 
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, LLM and vector store agnostic.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [umijs/dumi](https://github.com/umijs/dumi) - 📖 Static Site Generator for component library development
@@ -3324,7 +3324,7 @@
 - [langgenius/webapp-conversation](https://github.com/langgenius/webapp-conversation) - 
 - [Xunnamius/next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - ⚡ Confidently unit and integration test your Next.js API routes/handlers in an isolated Next.js-like environment
 - [serverless-nextjs/serverless-next.js](https://github.com/serverless-nextjs/serverless-next.js) - ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, and RAGs. Catch regressions and improve prompt quality. LLM evals for OpenAI, Azure, Anthropic, Gemini, Mistral, Llama, Bedrock, Ollama, and other local & private models wit
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Use LLM evals to improve your app's quality and catch problems. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comman
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Llama-3, Langchain, OpenAI, Upstash, Brave & Serper
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
