@@ -360,6 +360,8 @@
 
 ## Go 
 
+- [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
@@ -3656,7 +3658,7 @@
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [tellery/tellery](https://github.com/tellery/tellery) - Tellery lets you build metrics using SQL and bring them to your team. As easy as using a document. As powerful as a data modeling tool.
 - [elite-libs/DataAnalyzer.app](https://github.com/elite-libs/DataAnalyzer.app) - ✨🚀 DataAnalyzer.app - Convert JSON/CSV to Typed Data Interfaces - Automatically!
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [itsdouges/typescript-transformer-handbook](https://github.com/itsdouges/typescript-transformer-handbook) - 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples
 - [shawnkoon/machine-learning-typescript](https://github.com/shawnkoon/machine-learning-typescript) - Machine Learning 🤖apps using JavaScript/TypeScript with Tensorflow.
 - [JamieMason/self-help](https://github.com/JamieMason/self-help) - Interactive Q&A Guides for Web and the Command Line.
