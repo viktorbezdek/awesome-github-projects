@@ -2710,7 +2710,7 @@
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
 - [Libr-AI/OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Loki: Open-source solution designed to automate the process of verifying factuality
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [naver/dust3r](https://github.com/naver/dust3r) - DUSt3R: Geometric 3D Vision Made Easy
@@ -3148,7 +3148,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable SQL engine for event streams and time series data. Build live dashboards, event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch proces
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable SQL engine for event streams and time series data. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming a
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [mufeedvh/moonwalk](https://github.com/mufeedvh/moonwalk) - Cover your tracks during Linux Exploitation by leaving zero traces on system logs and filesystem timestamps.
@@ -3949,7 +3949,7 @@
 - [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
-- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [graphql-kit/graphql-lodash](https://github.com/graphql-kit/graphql-lodash) - 🛠 Data manipulation for GraphQL queries with lodash syntax
@@ -4200,7 +4200,7 @@
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
-- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
