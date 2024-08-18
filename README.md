@@ -294,7 +294,6 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [josephwilk/musical-creativity](https://github.com/josephwilk/musical-creativity) - Models of Musical Creativity (in Clojure)
@@ -2105,6 +2104,7 @@
 
 ## Jupyter Notebook 
 
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like
 - [sandeco/prompts](https://github.com/sandeco/prompts) - 
@@ -2675,6 +2675,9 @@
 
 ## Python 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
@@ -3335,6 +3338,7 @@
 
 ## TypeScript 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -3359,7 +3363,7 @@
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - 🚀 Open-source SQL AI Agent for Text-to-SQL. Make database RAG ready. 🙌
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [lobehub/lobe-ui](https://github.com/lobehub/lobe-ui) - 🍭  Lobe UI - an open-source UI component library for building AIGC web apps
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
