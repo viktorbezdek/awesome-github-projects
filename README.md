@@ -126,7 +126,7 @@
 - [snowballstem/snowball](https://github.com/snowballstem/snowball) - Snowball compiler and stemming algorithms
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [szcom/rnnlib](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. Forked from Alex Graves work http://sourceforge.net/projects/rnnl/
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [screetsec/TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then 
 - [gkaindl/ambi-tv](https://github.com/gkaindl/ambi-tv) - a flexible ambilight clone for embedded linux
 - [karthick18/inception](https://github.com/karthick18/inception) - Inception movie explained programmatically
@@ -682,7 +682,6 @@
 - [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron) - The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [caesarHQ/textSQL](https://github.com/caesarHQ/textSQL) - 
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [umijs/dumi](https://github.com/umijs/dumi) - 📖 Static Site Generator for component library development
@@ -1846,7 +1845,6 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [lebab/lebab](https://github.com/lebab/lebab) - Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does.
 - [mandatoryprogrammer/sonar.js](https://github.com/mandatoryprogrammer/sonar.js) - A framework for identifying and launching exploits against internal network hosts. Works via WebRTC IP enumeration combined with WebSockets and external resource fingerprinting.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [Brainfock/Brainfock](https://github.com/Brainfock/Brainfock) - Project Management & Team Collaboration: Issues, Bug Tracking, Sales (NodeJs / React.js)
 - [medialize/URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 - [ustwo/ustwo.com-frontend](https://github.com/ustwo/ustwo.com-frontend) - The New & Improved ustwo Website
@@ -2233,7 +2231,7 @@
 
 ## Mustache 
 
-- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (and any other conformant K8s)
+- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (or any other K8s)
 
 ## Nix 
 
@@ -2501,7 +2499,7 @@
 - [reactide-community/reactide](https://github.com/reactide-community/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
-- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust NHP Protocol Open Source Implementation
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [giuliacassara/awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
@@ -2815,6 +2813,7 @@
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
@@ -3397,7 +3396,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, Cha
 - [adrianhajdin/ecommerce](https://github.com/adrianhajdin/ecommerce) - Learn how to build an incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
@@ -3661,7 +3660,7 @@
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [CromwellCMS/Cromwell](https://github.com/CromwellCMS/Cromwell) - WordPress-like CMS for Next.js websites
 - [ojkelly/yarn.build](https://github.com/ojkelly/yarn.build) - Build 🛠 and Bundle 📦 your local workspaces. Like Bazel, Buck, Pants and Please but for Yarn Berry. Build any language, mix javascript, typescript, golang and more in one polyglot repo. Ship your bundl
 - [keystonejs/create-keystone-app](https://github.com/keystonejs/create-keystone-app) - CLI app that makes it easy to get started with Keystone
@@ -3906,7 +3905,7 @@
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [antvis/G2](https://github.com/antvis/G2) - 📊 The concise and progressive visualization grammar.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [d4rkr00t/whybundled](https://github.com/d4rkr00t/whybundled) - Answers the question – Why the hell is this module in a bundle?
 - [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [qas/examples-nodejs-cqrs-es-swagger](https://github.com/qas/examples-nodejs-cqrs-es-swagger) - A Node.js CQRS and Event Sourcing Microservice Example Using Nest.js, Event Store, and Swagger
@@ -4210,6 +4209,7 @@
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
