@@ -363,7 +363,7 @@
 ## Go 
 
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is hyper-optimized for building and scaling truly real-time applications on modern hardware. It is a drop-in replacement for Redis with support for SQL-based reactivity.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement fo
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
@@ -460,7 +460,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation. OpenNHP Docs: https://opennhp.org/
 - [tj/node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [gravitational/workshop](https://github.com/gravitational/workshop) - Docker, Kubernetes and Gravity Trainings by Gravitational
@@ -2263,6 +2263,7 @@
 
 ## Others 
 
+- [dariubs/awesome-workflow-automation](https://github.com/dariubs/awesome-workflow-automation) - A curated list of Workflow Automation Software and Tools
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 - [xszyou/Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides,
@@ -2677,6 +2678,7 @@
 
 ## Python 
 
+- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -3405,7 +3407,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source productivity tool dev kit helping you integrate spreadsheets, docs and slides into your applications.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [basestack-co/basestack](https://github.com/basestack-co/basestack) - The Open-Source Stack for Developers and Startups
 - [stegano/next-http-proxy-middleware](https://github.com/stegano/next-http-proxy-middleware) - HTTP Proxy middleware available in API Middleware provided by Next.js.
@@ -4197,7 +4199,7 @@
 - [buildo/react-placeholder](https://github.com/buildo/react-placeholder) - A React component to easily replicate your page with nice placeholders while the content is loading
 - [buildo/react-cookie-banner](https://github.com/buildo/react-cookie-banner) - React Cookie banner which can be automatically dismissed with a scroll. Because fuck The Cookie Law, that's why.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
 - [learnapollo/learnapollo](https://github.com/learnapollo/learnapollo) - 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool)
 - [mistakenelf/plate-app](https://github.com/mistakenelf/plate-app) - :curry: What's on your Plate?
