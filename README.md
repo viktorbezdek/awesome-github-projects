@@ -509,6 +509,7 @@
 - [naming-convention/naming-convention-guides](https://github.com/naming-convention/naming-convention-guides) - 📖 Collection of naming guides for writing more consistent and readable codes
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization
 - [mars/heroku-nextjs](https://github.com/mars/heroku-nextjs) - ⏩ Deploy Next.js universal web apps to Heroku
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [koutto/jok3r](https://github.com/koutto/jok3r) - Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework
 - [danmindru/responsive-html-email-signature](https://github.com/danmindru/responsive-html-email-signature) - ✨ Template generator for (responsive) emails & email signatures
 - [yannvr/react-components-cli](https://github.com/yannvr/react-components-cli) - React command line template generator
@@ -870,7 +871,6 @@
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [fridays/next-routes](https://github.com/fridays/next-routes) - Universal dynamic routes for Next.js
 - [async-labs/builderbook](https://github.com/async-labs/builderbook) - Open source web application to learn JS stack: React, Material-UI, Next.js, Node.js, Express.js, Mongoose, MongoDB database.
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines) - :alarm_clock: AI conference deadline countdowns
 - [davidsonfellipe/lena.js](https://github.com/davidsonfellipe/lena.js) - :woman: Library for image processing
@@ -2853,7 +2853,7 @@
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [ennauata/housegan](https://github.com/ennauata/housegan) - House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
