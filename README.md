@@ -325,6 +325,7 @@
 
 ## Dart 
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
@@ -415,6 +416,7 @@
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -481,7 +483,7 @@
 - [kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project. Collect information from a mail. Gather. Profile. Timeline.
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [indigo-dc/sqa-baseline](https://github.com/indigo-dc/sqa-baseline) - A set of Common Software Quality Assurance Baseline Criteria for Research Projects
@@ -640,6 +642,10 @@
 
 ## JavaScript 
 
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+- [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [sindresorhus/multicast-stream](https://github.com/sindresorhus/multicast-stream) - Create a multicast stream that lets multiple consumers independently read the same data
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
@@ -2677,6 +2683,11 @@
 
 ## Python 
 
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
+- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
@@ -3343,6 +3354,11 @@
 
 ## TypeScript 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
+- [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
+- [aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui) - Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [caching-tools/next-shared-cache](https://github.com/caching-tools/next-shared-cache) - Next.js self-hosting simplified
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Lit Form and Vue Form.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
@@ -3469,7 +3485,7 @@
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
-- [finic-ai/finic](https://github.com/finic-ai/finic) - Data integration platform that makes it easy and fast to build custom integrations in python.
+- [finic-ai/finic](https://github.com/finic-ai/finic) - Create browser agents to scrape websites and automate tasks.
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
 - [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
@@ -3485,7 +3501,7 @@
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [leap-ai/leap-ai-avatars](https://github.com/leap-ai/leap-ai-avatars) - 
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
 - [unstubbable/mfng](https://github.com/unstubbable/mfng) - A Minimal React Server Components Bundler & Library
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
@@ -3574,7 +3590,7 @@
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pClou
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [yhatt/jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
 - [daybrush/ruler](https://github.com/daybrush/ruler) - A Ruler component that can draw grids and scroll infinitely.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -3757,7 +3773,6 @@
 - [huggingface/node-question-answering](https://github.com/huggingface/node-question-answering) - Fast and production-ready question answering in Node.js
 - [fabienvauchelles/scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy is a super proxy aggregator, allowing you to manage all proxies in one place 🎯, rather than spreading it across multiple scrapers 🕸️.  It also smartly handles traffic routing 🔀 to minimize ba
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [colinhacks/devii](https://github.com/colinhacks/devii) - A developer blog starter for 2021 (Next.js + React + TypeScript + Markdown + syntax highlighting)
