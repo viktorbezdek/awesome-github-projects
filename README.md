@@ -1851,7 +1851,6 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [lebab/lebab](https://github.com/lebab/lebab) - Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does.
 - [mandatoryprogrammer/sonar.js](https://github.com/mandatoryprogrammer/sonar.js) - A framework for identifying and launching exploits against internal network hosts. Works via WebRTC IP enumeration combined with WebSockets and external resource fingerprinting.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [Brainfock/Brainfock](https://github.com/Brainfock/Brainfock) - Project Management & Team Collaboration: Issues, Bug Tracking, Sales (NodeJs / React.js)
 - [medialize/URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 - [ustwo/ustwo.com-frontend](https://github.com/ustwo/ustwo.com-frontend) - The New & Improved ustwo Website
@@ -2829,7 +2828,7 @@
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
-- [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
+- [modal-labs/quillman](https://github.com/modal-labs/quillman) - A voice chat app
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
@@ -2974,6 +2973,7 @@
 - [mre/timelapse](https://github.com/mre/timelapse) - 🎬 Native macOS app for recording timelapse videos of your desktop.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools) - A collection of custom security tools for quick needs.
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
 - [deeppavlov/DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -3386,7 +3386,7 @@
 - [calcom/platform-starter-kit](https://github.com/calcom/platform-starter-kit) - Cal.com Platform: Starter Kit
 - [hiroppy/nextjs-app-router-training](https://github.com/hiroppy/nextjs-app-router-training) - Introducing various basic patterns of app router with simplified code.
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Frontend & infra for AI agents, chatbots & textareas that interact with your web-app 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [lucgagan/auto-playwright](https://github.com/lucgagan/auto-playwright) - Automating Playwright steps using ChatGPT.
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
@@ -3397,7 +3397,7 @@
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
+- [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
@@ -3800,7 +3800,7 @@
 - [maticzav/nookies](https://github.com/maticzav/nookies) - 🍪 A set of cookie helpers for Next.js
 - [open-source-labs/Reactime](https://github.com/open-source-labs/Reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
 - [vercel/next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
-- [juanbzpy/next-authentication](https://github.com/juanbzpy/next-authentication) - Authentication & Authorization library for the Next.js framework
+- [j0lvera/next-authentication](https://github.com/j0lvera/next-authentication) - Authentication & Authorization library for the Next.js framework
 - [santosfrancisco/react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - A responsive 8-point grid system layout for React using styled-components
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -3930,7 +3930,6 @@
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [antvis/G2](https://github.com/antvis/G2) - 📊 The concise and progressive visualization grammar.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -4239,6 +4238,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
