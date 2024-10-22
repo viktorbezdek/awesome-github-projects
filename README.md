@@ -40,7 +40,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
-- [Mustache](#mustache)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -62,6 +61,7 @@
 - [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -139,6 +139,7 @@
 
 ## C++ 
 
+- [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [kroma-network/tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU
@@ -2107,6 +2108,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -2231,10 +2233,6 @@
 ## Mojo 
 
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
-
-## Mustache 
-
-- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (or any other K8s)
 
 ## Nix 
 
@@ -2679,6 +2677,7 @@
 
 ## Python 
 
+- [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [Vinyzu/Botright](https://github.com/Vinyzu/Botright) - Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captc
 - [microsoft/SynthMoCap](https://github.com/microsoft/SynthMoCap) - 
 - [chain-ml/council](https://github.com/chain-ml/council) - Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications
@@ -2724,7 +2723,7 @@
 - [novitalabs/AnimateAnyone](https://github.com/novitalabs/AnimateAnyone) - Unofficial Implementation of Animate Anyone by Novita AI
 - [bin123apple/AutoCoder](https://github.com/bin123apple/AutoCoder) - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
 - [Dataherald/dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs,
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Build custom agents, personalized automati
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
@@ -2821,7 +2820,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
@@ -3149,6 +3148,7 @@
 
 ## Rust 
 
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
@@ -3326,6 +3326,10 @@
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [larsenwork/Gidole](https://github.com/larsenwork/Gidole) - Gidole - Open Source Modern DIN
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
+
+## Smarty 
+
+- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (or any other K8s)
 
 ## Svelte 
 
@@ -3668,7 +3672,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
-- [sst/sst](https://github.com/sst/sst) - SST v2
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [Uniswap/web3-react](https://github.com/Uniswap/web3-react) - A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
