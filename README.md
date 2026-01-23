@@ -1,3 +1,5 @@
+[![Update Stars](https://github.com/viktorbezdek/awesome-github-projects/actions/workflows/starred.yml/badge.svg)](https://github.com/viktorbezdek/awesome-github-projects/actions/workflows/starred.yml)
+
 <!--lint disable awesome-contributing awesome-license awesome-list-item match-punctuation no-repeat-punctuation no-undefined-references awesome-spell-check-->
 # Awesome Stars [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
