@@ -1982,6 +1982,7 @@
 
 ---
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source Git GUI and multi-worktree client with an amazing UI built for parallel agentic workflows, featuring programmatic verifications and review loops
 ## 📊 Data & Analytics
 
 *84 projects*
